@@ -9,4 +9,6 @@
 
 |дата|тема|тетрадка|ДЗ к семинару|
 |---|---|---|---|
-|———|Подготовка рабочей среды<br>Переменные<br>Операции с числами и строками||1. [установить Python](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/other/installing_python.ipynb)<br>2. 👁 все видео из [темы №1](https://edu.hse.ru/course/section.php?id=791358)|
+|06.11|Подготовка рабочей среды<br>Переменные<br>Операции с числами и строками|[тетрадка](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/sem1.ipynb)|1. [установить Python](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/other/installing_python.ipynb)<br>2. 👁 все видео из [темы №1](https://edu.hse.ru/course/section.php?id=791358)|
+|13.11||||
+|20.11||||
