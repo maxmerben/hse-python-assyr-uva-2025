@@ -24,7 +24,8 @@
 |13.02|***Самостоятельная работа***<br>Повторение|[тетрадка](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem12.ipynb)|1. задания C01 и C02 из [банка](https://edu.hse.ru/course/view.php?id=211220)<br>2. изучить [конспект](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem12.ipynb)<br>3. [допзадачи 12.1–12.8](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem12.ipynb)|
 |20.02|Токенизация (`nltk`)<br>Морфологический анализ (`pymorphy3`)|[тетрадка](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem14.ipynb)|свобода!|
 |27.02|Частотные словари, *n*-граммы|[тетрадка](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem15.ipynb)|1. изучить [конспект](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem14.ipynb)<br>2. [допзадачи 14.1–14.3](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem14.ipynb)|
-|06.03|***Контрольная работа***<br>***Сдача проектов***|||
+|06.03|***Контрольная работа***||1. готовиться к КР по [демоверсии](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/other/kr2_demo.ipynb)<br>2. [допзадачи 15.1–15.2](https://github.com/maxmerben/hse-python-assyr-uva-2025/blob/main/seminars/hse-python-assyr-uva-sem15-tasks.ipynb)|
+|08.03 (вс)|***Сдача проектов***|||
 |12.03|***Защиты проектов***|||
 |19.03|Повторение к Независимому экзамену|||
 |25.03<br>(13:00)|***Экзамен***|||
